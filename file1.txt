@@ -1,11 +1,2 @@
- Volume in drive C has no label.
- Volume Serial Number is 7E0A-4767
-
- Directory of C:\Devops-cbs
-
-18-07-2022  22:58    <DIR>          .
-18-07-2022  22:58    <DIR>          ..
-18-07-2022  22:58                 0 file1.txt
-18-07-2022  12:15               103 git
-               2 File(s)            103 bytes
-               2 Dir(s)  24,945,922,048 bytes free
+hi
+welcome to devops training 
