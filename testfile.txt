@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7E0A-4767
+
+ Directory of C:\Devops-cbs
+
+21-07-2022  11:41    <DIR>          .
+21-07-2022  11:41    <DIR>          ..
+21-07-2022  11:41                 0 testfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  24,286,502,912 bytes free
